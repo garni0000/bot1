@@ -117,8 +117,8 @@ function recapMessage() {
    🔘 BOUTONS
 ========================= */
 const keyboard = Markup.inlineKeyboard([
-  [Markup.button.url("💸 Jouer maintenant", "https://join.solkah.org/")],
-  [Markup.button.url("📘 Comment jouer", "https://t.me/c/1923341484/1102")]
+  [Markup.button.url("💸 Jouer maintenant", "https://cut.solkah.org/fs")],
+  [Markup.button.url("📘 Comment jouer", "https://t.me/c/2246418480/105")]
 ]);
 
 /* =========================
