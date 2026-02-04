@@ -38,8 +38,8 @@ const entryTemplates = [
 ${generateSignal()}
 
 ⚠️Fonctionne uniquement
-si tu joues sur Melbet ou 1xBet
-avec un compte pro authentique ( code promo FSRAFA).`,
+(si tu joues sur un compte pro authentique sur Melbet ou 1xBet
+avec avec le code promo FSRAFA).`,
 
   () => `
 
@@ -50,7 +50,7 @@ avec un compte pro authentique ( code promo FSRAFA).`,
 
 ${generateSignal()}
 
-joue se signal si tu a un compte authentique sur melbet ou 1xbet code promo FSRAFA
+Joue se signal si tu a un compte pro authentique sur melbet ou 1xbet avec code promo FSRAFA
  `
 ];
 
