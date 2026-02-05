@@ -72,7 +72,7 @@ function recapMessage() {
 ========================= */
 const keyboard = Markup.inlineKeyboard([
   [Markup.button.url("💸creer un compte", "https://join.solkah.org/fsrafa")],
-  [Markup.button.url("📘 Comment jouer", "https://t.me/c/1923341484/1102")]
+  [Markup.button.url("📘 Comment jouer", "https://t.me/c/2246418480/158")]
 ]);
 
 /* =========================
